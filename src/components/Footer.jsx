@@ -15,7 +15,7 @@ const Footer = () => (
 					Robert K. Nelson, LaDale Winling, Richard Marciano, Nathan Connolly, et al., <a href="https://dsl.richmond.edu/panorama/redlining/#loc=11/41.3030/-72.9225&opacity=0.8&city=new-haven-ct">“Mapping Inequality,”</a> American Panorama, ed. Robert K. Nelson and Edward L. Ayers, accessed March 7, 2018.
 				</li>
 			</ul>
-			<Message.Header as="a" href="https://github.com/camille-s/housing/blob/gh-pages/data/housing_data.csv">Download the data</Message.Header>
+			<Message.Header as="a" href="https://github.com/ct-data-haven/housing/blob/gh-pages/data/housing_data.csv">Download the data</Message.Header>
 		</Message>
 	</div>
 );
